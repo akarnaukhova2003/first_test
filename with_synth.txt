@@ -1,0 +1,1564 @@
+
+1. UNVERIFIED: Mamastrovirus 13 isolate sheep/HA6 genomic sequence
+6,411 bp linear RNA 
+PV975263.1 GI:3041767542
+
+2. UNVERIFIED: Mamastrovirus 13 isolate sheep/HA22106 genomic sequence
+6,250 bp linear RNA 
+PV975262.1 GI:3041767541
+
+3. UNVERIFIED: Mamastrovirus 13 isolate Ferri_08_N_ORF2_ASTV_GOAT_MILK_PR3 ORF2 gene, partial sequence
+397 bp linear RNA 
+PV972769.1 GI:3030767292
+
+4. UNVERIFIED: Mamastrovirus 13 isolate Ferri_07B_N_ASTV_GOAT_MILK_PR2 ORF2 gene, partial sequence
+256 bp linear RNA 
+PV972768.1 GI:3030767291
+
+5. UNVERIFIED: Mamastrovirus 13 isolate Ferri_07_N_ORF2_ASTV_GOAT_MILK_PR1 ORF2 gene, partial sequence
+360 bp linear RNA 
+PV972767.1 GI:3030767290
+
+6. UNVERIFIED: Mamastrovirus 13 isolate Ferri_05_N_ORF2_GOAT_MILK_BG4 ORF2 gene, partial sequence
+460 bp linear RNA 
+PV972766.1 GI:3030767289
+
+7. UNVERIFIED: Mamastrovirus 13 isolate Ferri_04_N_ORF2_ASTV_GOAT_MILK_BG3 ORF2 gene, partial sequence
+360 bp linear RNA 
+PV972765.1 GI:3030767288
+
+8. UNVERIFIED: Mamastrovirus 13 isolate Ferri_03_N_ORF2_ASTV_GOAT_MILK_BG2 ORF2 gene, partial sequence
+400 bp linear RNA 
+PV972764.1 GI:3030767287
+
+9. UNVERIFIED: Mamastrovirus 13 isolate Ferri_02_N_ORF2_ASTV_GOAT_MILK_BG1 ORF2 gene, partial sequence
+257 bp linear RNA 
+PV972763.1 GI:3030767286
+
+10. UNVERIFIED: Mamastrovirus 13 isolate Ferri_01_N_ORF2_ASTV_GOAT_MILK_O ORF2 gene, partial sequence
+460 bp linear RNA 
+PV972762.1 GI:3030767285
+
+11. UNVERIFIED: Bastrovirus sp. isolate S9_k141_10240_rc sequence
+652 bp linear RNA 
+PQ569844.1 GI:2961958930
+
+12. UNVERIFIED: California sea lion astrovirus 3 isolate k141_28814 sequence
+380 bp linear RNA 
+PV335595.1 GI:2941689069
+
+13. UNVERIFIED: New Zealand sea lion astrovirus 1 isolate k141_52051 sequence
+6,655 bp linear RNA 
+PV335594.1 GI:2941689001
+
+14. UNVERIFIED: California sea lion astrovirus 8 isolate k141_65084 sequence
+7,295 bp linear RNA 
+PV335593.1 GI:2941688934
+
+15. UNVERIFIED: Canine astrovirus isolate 255D capsid protein-like gene, complete sequence
+2,502 bp linear RNA 
+PQ777147.1 GI:2902904560
+
+16. UNVERIFIED: Canine astrovirus isolate 247D capsid protein-like gene, complete sequence
+2,502 bp linear RNA 
+PQ777146.1 GI:2902904559
+
+17. UNVERIFIED: Canine astrovirus isolate 393D capsid protein-like gene, complete sequence
+2,502 bp linear RNA 
+PQ777145.1 GI:2902904558
+
+18. UNVERIFIED: Canine astrovirus isolate 366D capsid protein-like gene, complete sequence
+2,502 bp linear RNA 
+PQ777144.1 GI:2902904557
+
+19. UNVERIFIED: Canine astrovirus isolate 370D capsid protein-like gene, complete sequence
+2,502 bp linear RNA 
+PQ777143.1 GI:2902904556
+
+20. UNVERIFIED: Canine astrovirus isolate 371D capsid protein-like gene, complete sequence
+2,502 bp linear RNA 
+PQ777142.1 GI:2902904555
+
+21. UNVERIFIED: Canine astrovirus isolate 382D capsid protein-like gene, complete sequence
+2,472 bp linear RNA 
+PQ777141.1 GI:2902904554
+
+22. UNVERIFIED: Canine astrovirus isolate 432D capsid protein-like gene, complete sequence
+2,475 bp linear RNA 
+PQ777140.1 GI:2902904553
+
+23. UNVERIFIED: Canine astrovirus isolate 396D capsid protein-like gene, complete sequence
+2,475 bp linear RNA 
+PQ777139.1 GI:2902904552
+
+24. UNVERIFIED: Canine astrovirus isolate 392D capsid protein-like gene, complete sequence
+2,472 bp linear RNA 
+PQ777138.1 GI:2902904551
+
+25. UNVERIFIED: Canine astrovirus isolate 385D capsid protein-like gene, complete sequence
+2,475 bp linear RNA 
+PQ777137.1 GI:2902904550
+
+26. UNVERIFIED: Canine astrovirus isolate 387D capsid protein-like gene, complete sequence
+2,472 bp linear RNA 
+PQ777136.1 GI:2902904549
+
+27. UNVERIFIED: Canine astrovirus isolate 87D capsid protein-like gene, complete sequence
+2,304 bp linear RNA 
+PQ777135.1 GI:2902904548
+
+28. UNVERIFIED: Canine astrovirus isolate 283D capsid protein-like gene, complete sequence
+2,505 bp linear RNA 
+PQ777134.1 GI:2902904547
+
+29. UNVERIFIED: Canine astrovirus isolate 95D capsid protein-like gene, complete sequence
+2,328 bp linear RNA 
+PQ777133.1 GI:2902904546
+
+30. UNVERIFIED: Canine astrovirus isolate 84D capsid protein-like gene, complete sequence
+2,331 bp linear RNA 
+PQ777132.1 GI:2902904545
+
+31. UNVERIFIED: Canine astrovirus isolate 98D capsid protein-like gene, complete sequence
+2,505 bp linear RNA 
+PQ777131.1 GI:2902904544
+
+32. UNVERIFIED: Canine astrovirus isolate 288D capsid protein-like gene, complete sequence
+2,322 bp linear RNA 
+PQ777130.1 GI:2902904543
+
+33. UNVERIFIED: Canine astrovirus isolate 286D capsid protein-like gene, complete sequence
+2,499 bp linear RNA 
+PQ777129.1 GI:2902904542
+
+34. UNVERIFIED: Canine astrovirus isolate 41D capsid protein-like gene, complete sequence
+2,505 bp linear RNA 
+PQ777128.1 GI:2902904541
+
+35. UNVERIFIED: Canine astrovirus isolate 88D capsid protein-like gene, complete sequence
+2,475 bp linear RNA 
+PQ777127.1 GI:2902904540
+
+36. UNVERIFIED: Canine astrovirus isolate 90D capsid protein-like gene, complete sequence
+2,475 bp linear RNA 
+PQ777126.1 GI:2902904539
+
+37. UNVERIFIED: Canine astrovirus isolate 290D capsid protein-like gene, complete sequence
+2,499 bp linear RNA 
+PQ777125.1 GI:2902904538
+
+38. UNVERIFIED: Canine astrovirus isolate 380D capsid protein-like gene, complete sequence
+2,499 bp linear RNA 
+PQ777124.1 GI:2902904537
+
+39. UNVERIFIED: Bovine astrovirus isolate NX-AstV2 ORF2-like gene, partial sequence
+2,334 bp linear RNA 
+PQ601068.1 GI:2872126735
+
+40. UNVERIFIED: Bovine astrovirus isolate NX-AstV1 ORF2-like gene, partial sequence
+3,602 bp linear RNA 
+PQ601067.1 GI:2872126734
+
+41. UNVERIFIED: Duck astrovirus 3 strain SD455 genomic sequence
+7,463 bp linear RNA 
+PQ287383.1 GI:2809804177
+
+42. UNVERIFIED: Duck astrovirus 3 strain SD316 genomic sequence
+7,463 bp linear RNA 
+PQ287382.1 GI:2809804176
+
+43. UNVERIFIED: Duck astrovirus 3 strain SD296 genomic sequence
+7,463 bp linear RNA 
+PQ287381.1 GI:2809804175
+
+44. UNVERIFIED: Duck astrovirus 3 strain SD415 genomic sequence
+7,463 bp linear RNA 
+PQ287380.1 GI:2809804174
+
+45. UNVERIFIED: Duck astrovirus 3 strain NMG312 genomic sequence
+7,463 bp linear RNA 
+PQ287379.1 GI:2809804173
+
+46. UNVERIFIED: Duck astrovirus 3 strain NMG179 genomic sequence
+7,463 bp linear RNA 
+PQ287378.1 GI:2809804172
+
+47. UNVERIFIED: Duck hepatitis virus 3 sequence
+1,084 bp linear RNA 
+OR412751.1 GI:2581907307
+
+48. MAG UNVERIFIED: Zhejiang porcine bastro-like virus isolate HDD2 genomic sequence
+5,918 bp linear RNA 
+PQ106802.1 GI:2782034646
+
+49. UNVERIFIED: Bat astrovirus isolate MIZ141 RNA-dependent RNA polymerase-like gene, partial sequence
+422 bp linear RNA 
+PQ038334.1 GI:2778273391
+
+50. UNVERIFIED: Bat astrovirus isolate KEL299B RNA-dependent RNA polymerase-like gene, partial sequence
+416 bp linear RNA 
+PQ038333.1 GI:2778273390
+
+51. UNVERIFIED: Bat astrovirus isolate KEL200 RNA-dependent RNA polymerase-like gene, partial sequence
+416 bp linear RNA 
+PQ038332.1 GI:2778273389
+
+52. UNVERIFIED: Mamastrovirus 13 isolate OvAstV_TR_FIRAT, complete genome
+6,382 bp linear RNA 
+OR544230.1 GI:2622092357
+
+53. UNVERIFIED: Canine astrovirus isolate 393D_ECU RNA-dependent RNA polymerase-like gene, partial sequence
+348 bp linear RNA 
+PP889839.1 GI:2744499424
+
+54. UNVERIFIED: Canine astrovirus isolate 366D_ECU RNA-dependent RNA polymerase-like gene, partial sequence
+331 bp linear RNA 
+PP889838.1 GI:2744499423
+
+55. UNVERIFIED: Canine astrovirus isolate 255D_ECU RNA-dependent RNA polymerase-like gene, partial sequence
+333 bp linear RNA 
+PP889837.1 GI:2744499422
+
+56. UNVERIFIED: Canine astrovirus isolate 288D_ECU RNA-dependent RNA polymerase-like gene, partial sequence
+390 bp linear RNA 
+PP889836.1 GI:2744499421
+
+57. UNVERIFIED: Canine astrovirus isolate 286D_ECU RNA-dependent RNA polymerase-like gene, partial sequence
+329 bp linear RNA 
+PP889835.1 GI:2744499420
+
+58. UNVERIFIED: Canine astrovirus isolate 442D_ECU RNA-dependent RNA polymerase-like gene, partial sequence
+389 bp linear RNA 
+PP889834.1 GI:2744499419
+
+59. UNVERIFIED: Canine astrovirus isolate 380D_ECU RNA-dependent RNA polymerase-like gene, partial sequence
+298 bp linear RNA 
+PP889833.1 GI:2744499418
+
+60. UNVERIFIED: Canine astrovirus isolate 370D_ECU RNA-dependent RNA polymerase-like gene, partial sequence
+308 bp linear RNA 
+PP889832.1 GI:2744499417
+
+61. UNVERIFIED: Canine astrovirus isolate 371D_ECU RNA-dependent RNA polymerase-like gene, partial sequence
+388 bp linear RNA 
+PP889831.1 GI:2744499416
+
+62. UNVERIFIED: Canine astrovirus isolate 283D_ECU RNA-dependent RNA polymerase-like gene, partial sequence
+307 bp linear RNA 
+PP889830.1 GI:2744499415
+
+63. UNVERIFIED: Goose astrovirus isolate HNHK0516, complete genome
+7,156 bp linear RNA 
+OQ615742.1 GI:2717333269
+
+64. UNVERIFIED: Goose astrovirus isolate HNHK0507, complete genome
+7,122 bp linear RNA 
+OQ615741.1 GI:2717333268
+
+65. UNVERIFIED: Goose astrovirus isolate HNHK0410, complete genome
+7,183 bp linear RNA 
+OQ615740.1 GI:2717333267
+
+66. UNVERIFIED: Astrovirus VA1 isolate HAstVVA1CASLlab genomic sequence
+6,473 bp linear RNA 
+PP236967.1 GI:2667406038
+
+67. UNVERIFIED: Mamastrovirus 3 isolate V289 RNA-dependent RNA polymerase-like and capsid protein-like genes, partial sequence
+692 bp linear RNA 
+OP381856.1 GI:2432042282
+
+68. UNVERIFIED: Mamastrovirus 3 isolate V163 RNA-dependent RNA polymerase-like and capsid protein-like genes, partial sequence
+805 bp linear RNA 
+OP381833.1 GI:2432042281
+
+69. UNVERIFIED: Mamastrovirus 3 isolate V044 RNA-dependent RNA polymerase-like gene, partial sequence; and capsid protein gene, partial cds
+730 bp linear RNA 
+OP381831.1 GI:2432042279
+
+70. UNVERIFIED: Mamastrovirus 3 isolate V032 RNA-dependent RNA polymerase gene, partial cds; and capsid protein-like gene, partial sequence
+789 bp linear RNA 
+OP381827.1 GI:2432042277
+
+71. UNVERIFIED: Mamastrovirus 3 isolate V275 RNA-dependent RNA polymerase-like gene, partial sequence; and capsid protein gene, partial cds
+772 bp linear RNA 
+OP381851.1 GI:2432042275
+
+72. UNVERIFIED: Mamastrovirus 3 isolate V009 RNA-dependent RNA polymerase-like gene, partial sequence; and capsid protein gene, partial cds
+778 bp linear RNA 
+OP381825.1 GI:2432042273
+
+73. UNVERIFIED: Astroviridae sp. isolate AstV_200_2021_wb_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+305 bp linear RNA 
+OR940920.1 GI:2634800500
+
+74. UNVERIFIED: Astroviridae sp. isolate AstV_163_2021_rat_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+311 bp linear RNA 
+OR940919.1 GI:2634800499
+
+75. UNVERIFIED: Astroviridae sp. isolate AstV_90_2021_rat_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+311 bp linear RNA 
+OR940918.1 GI:2634800498
+
+76. UNVERIFIED: Astroviridae sp. isolate AstV_85_2021_rat_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+311 bp linear RNA 
+OR940917.1 GI:2634800497
+
+77. UNVERIFIED: Astroviridae sp. isolate Astv_57_2021_fox_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+314 bp linear RNA 
+OR940916.1 GI:2634800496
+
+78. UNVERIFIED: Astroviridae sp. isolate AstV_56_2021_red_fox_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+314 bp linear RNA 
+OR940915.1 GI:2634800495
+
+79. UNVERIFIED: Astroviridae sp. isolate AstV_138_2021_red_fox_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+314 bp linear RNA 
+OR940914.1 GI:2634800494
+
+80. UNVERIFIED: Astroviridae sp. isolate AstV_301_2022_red_fox_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+314 bp linear RNA 
+OR940913.1 GI:2634800493
+
+81. UNVERIFIED: Astroviridae sp. isolate AstV_55_2021_red_fox_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+314 bp linear RNA 
+OR940912.1 GI:2634800492
+
+82. UNVERIFIED: Astroviridae sp. isolate AstV_53_2021_red_fox_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+314 bp linear RNA 
+OR940911.1 GI:2634800491
+
+83. UNVERIFIED: Astroviridae sp. isolate AstV_205_2021_wb_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+320 bp linear RNA 
+OR940910.1 GI:2634800490
+
+84. UNVERIFIED: Astroviridae sp. isolate AstV_39_2021_pig_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+320 bp linear RNA 
+OR940909.1 GI:2634800489
+
+85. UNVERIFIED: Astroviridae sp. isolate AstV_101_2021_pig_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+320 bp linear RNA 
+OR940908.1 GI:2634800488
+
+86. UNVERIFIED: Astroviridae sp. isolate AstV_15_2021_pig_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+314 bp linear RNA 
+OR940907.1 GI:2634800487
+
+87. UNVERIFIED: Astroviridae sp. isolate AstV_14_2021_pig_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+314 bp linear RNA 
+OR940906.1 GI:2634800486
+
+88. UNVERIFIED: Astroviridae sp. isolate AstV_12_2021_pig_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+314 bp linear RNA 
+OR940905.1 GI:2634800485
+
+89. UNVERIFIED: Astroviridae sp. isolate AstV_120_2021_pig_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+320 bp linear RNA 
+OR940904.1 GI:2634800484
+
+90. UNVERIFIED: Astroviridae sp. isolate AstV_104_2021_pig_POL RNA-dependent RNA polymerase-like (RdRp) gene, partial sequence
+320 bp linear RNA 
+OR940903.1 GI:2634800483
+
+91. UNVERIFIED: Bovine astrovirus, partial genome
+6,182 bp linear RNA 
+OR702990.1 GI:2618183804
+
+92. UNVERIFIED: Bat astrovirus isolate HABSC17/2058 similar to non-structural ORF1ab polyprotein genomic sequence
+556 bp linear RNA 
+OR613370.1 GI:2616292587
+
+93. UNVERIFIED: Bat astrovirus isolate MSJDC22/257 similar to non-structural ORF1ab polyprotein genomic sequence
+950 bp linear RNA 
+OR613348.1 GI:2616292490
+
+94. UNVERIFIED: Bat astrovirus isolate PPYCC16/11 ORF1a gene, partial cds; and similar to ORF1b and similar to ORF2 genomic sequences
+6,625 bp linear RNA 
+OR613296.1 GI:2616292238
+
+95. UNVERIFIED: Bat astrovirus isolate TMGXS17/3801 similar to non-structural polyprotein 1ab genomic sequence
+750 bp linear RNA 
+OR613292.1 GI:2616292226
+
+96. UNVERIFIED: Chicken astrovirus isolate SDAU2022-3 genomic sequence
+7,330 bp linear RNA 
+OR286520.1 GI:2592100825
+
+97. UNVERIFIED: Avian nephritis virus isolate GD/238/17 ORF1ab gene, partial sequence; non-structural protein (ORF1a) gene, partial cds; and capsid protein (ORF2) gene, complete cds
+6,743 bp linear RNA 
+OR220065.1 GI:2580593033
+
+98. UNVERIFIED: Avian nephritis virus isolate GD/239/17 ORF1ab gene, partial sequence; non-structural protein (ORF1a) gene, partial cds; and capsid protein (ORF2) gene, complete cds
+6,741 bp linear RNA 
+OR220064.1 GI:2580593030
+
+99. UNVERIFIED: Astrovirus MLB1 isolate Fray Bentos sequence
+378 bp linear RNA 
+OQ603360.1 GI:2501509781
+
+100. UNVERIFIED: Goose astrovirus 2 strain SCG1 ORF2-like (ORF2) gene, complete sequence
+2,115 bp linear RNA 
+OR234626.1 GI:2579738598
+
+101. UNVERIFIED: Goose astrovirus 2 strain SCX1 ORF2-like (ORF2) gene, complete sequence
+2,115 bp linear RNA 
+OR234625.1 GI:2579738595
+
+102. UNVERIFIED: Goose astrovirus 2 strain SCD1 ORF2-like (ORF2) gene, complete sequence
+2,115 bp linear RNA 
+OR234624.1 GI:2579738592
+
+103. UNVERIFIED: Human astrovirus isolate Salto nonstructural protein-like gene, partial sequence
+419 bp linear RNA 
+OQ513257.1 GI:2571213688
+
+104. UNVERIFIED: Caprine astrovirus clone NTO-51 CP sequence
+387 bp linear RNA 
+OR188805.1 GI:2569307689
+
+105. UNVERIFIED: Caprine astrovirus clone MDB-23 CP sequence
+369 bp linear RNA 
+OR188804.1 GI:2569307688
+
+106. UNVERIFIED: Caprine astrovirus clone ILA-13 CP sequence
+372 bp linear RNA 
+OR188803.1 GI:2569307687
+
+107. UNVERIFIED: Caprine astrovirus clone ZOU-102 CP sequence
+345 bp linear RNA 
+OR188802.1 GI:2569307686
+
+108. UNVERIFIED: Caprine astrovirus clone ILA-18 CP sequence
+339 bp linear RNA 
+OR188801.1 GI:2569307685
+
+109. UNVERIFIED: Caprine astrovirus clone NTO-55 CP sequence
+387 bp linear RNA 
+OR188800.1 GI:2569307684
+
+110. UNVERIFIED: Caprine astrovirus clone MDB-35 CP sequence
+390 bp linear RNA 
+OR188799.1 GI:2569307683
+
+111. UNVERIFIED: Caprine astrovirus clone ETA-162 CP sequence
+408 bp linear RNA 
+OR188798.1 GI:2569307682
+
+112. UNVERIFIED: Caprine astrovirus clone ETA-154 CP sequence
+375 bp linear RNA 
+OR188797.1 GI:2569307681
+
+113. UNVERIFIED: Caprine astrovirus clone IMB-142 CP sequence
+408 bp linear RNA 
+OR188796.1 GI:2569307680
+
+114. UNVERIFIED: Caprine astrovirus clone ZOU-100 CP sequence
+363 bp linear RNA 
+OR188795.1 GI:2569307679
+
+115. UNVERIFIED: Caprine astrovirus clone ZOU-99 CP sequence
+375 bp linear RNA 
+OR188794.1 GI:2569307678
+
+116. UNVERIFIED: Caprine astrovirus clone ZOU-95 CP sequence
+417 bp linear RNA 
+OR188793.1 GI:2569307677
+
+117. UNVERIFIED: Caprine astrovirus clone ZOU-92 CP sequence
+405 bp linear RNA 
+OR188792.1 GI:2569307676
+
+118. UNVERIFIED: Caprine astrovirus clone NTO-39 CP sequence
+405 bp linear RNA 
+OR188791.1 GI:2569307675
+
+119. UNVERIFIED: Caprine astrovirus clone NTO-37 CP sequence
+393 bp linear RNA 
+OR188790.1 GI:2569307674
+
+120. UNVERIFIED: Caprine astrovirus clone MDB-27 CP sequence
+351 bp linear RNA 
+OR188789.1 GI:2569307673
+
+121. UNVERIFIED: Astroviridae sp. isolate 142AST genomic sequence
+2,867 bp linear RNA 
+OM892277.1 GI:2565119507
+
+122. MAG UNVERIFIED: Bovine astrovirus isolate NA4475 sequence
+6,198 bp linear RNA 
+OR148666.1 GI:2550532733
+
+123. MAG UNVERIFIED: Bovine astrovirus isolate 86599 sequence
+6,198 bp linear RNA 
+OR148665.1 GI:2550532732
+
+124. MAG UNVERIFIED: Bovine astrovirus isolate 73961 sequence
+6,289 bp linear RNA 
+OR148664.1 GI:2550532731
+
+125. MAG UNVERIFIED: Bovine astrovirus isolate 71346 sequence
+6,254 bp linear RNA 
+OR148663.1 GI:2550532730
+
+126. MAG UNVERIFIED: Bovine astrovirus isolate 53954 sequence
+6,197 bp linear RNA 
+OR148662.1 GI:2550532729
+
+127. MAG UNVERIFIED: Bovine astrovirus isolate 18707 sequence
+6,198 bp linear RNA 
+OR148661.1 GI:2550532728
+
+128. MAG UNVERIFIED: Bovine astrovirus isolate 12151 sequence
+6,108 bp linear RNA 
+OR148660.1 GI:2550532727
+
+129. UNVERIFIED: Human astrovirus strain Hu/JB031720523/SZ/CHN/2017, partial genome
+6,010 bp linear RNA 
+OQ198437.1 GI:2532149084
+
+130. UNVERIFIED: Human astrovirus strain Hu/JB031720224/SZ/CHN/2017, partial genome
+5,956 bp linear RNA 
+OQ198436.1 GI:2532149083
+
+131. UNVERIFIED: Human astrovirus strain Hu/JB031620810/SZ/CHN/2016, partial genome
+5,909 bp linear RNA 
+OQ198435.1 GI:2532149082
+
+132. UNVERIFIED: Human astrovirus strain Hu/JB031720861/SZ/CHN/2017, partial genome
+6,760 bp linear RNA 
+OQ198434.1 GI:2532149081
+
+133. UNVERIFIED: Human astrovirus strain Hu/JB031720582/SZ/CHN/2017, partial genome
+6,417 bp linear RNA 
+OQ198433.1 GI:2532149080
+
+134. UNVERIFIED: Human astrovirus strain Hu/JB031720432/SZ/CHN/2017, partial genome
+6,419 bp linear RNA 
+OQ198432.1 GI:2532149079
+
+135. UNVERIFIED: Human astrovirus strain Hu/JB031620774/SZ/CHN/2016, partial genome
+6,324 bp linear RNA 
+OQ198431.1 GI:2532149078
+
+136. UNVERIFIED: Human astrovirus strain Hu/JB031620547/SZ/CHN/2016, partial genome
+6,535 bp linear RNA 
+OQ198430.1 GI:2532149077
+
+137. UNVERIFIED: Human astrovirus strain Hu/JB031820905/SZ/CHN/2018, partial genome
+5,691 bp linear RNA 
+OQ198429.1 GI:2532149076
+
+138. UNVERIFIED: Human astrovirus strain Hu/JB031720493/SZ/CHN/2017, partial genome
+6,018 bp linear RNA 
+OQ198428.1 GI:2532149075
+
+139. UNVERIFIED: Human astrovirus strain Hu/JB031920572/SZ/CHN/2019, partial genome
+6,160 bp linear RNA 
+OQ198427.1 GI:2532149074
+
+140. UNVERIFIED: Rodent astrovirus isolate CHNDB/2019, complete genome
+6,192 bp linear RNA 
+MW927503.1 GI:2505719611
+
+141. UNVERIFIED: Bovine astrovirus strain BoAstV68/2021/CHN, complete genome
+6,128 bp linear RNA 
+ON682303.1 GI:2459893719
+
+142. UNVERIFIED: Bovine astrovirus strain BoAstV64/2021/CHN, complete genome
+6,084 bp linear RNA 
+ON682299.1 GI:2459893708
+
+143. UNVERIFIED: Bovine astrovirus strain BoAstV63/2021/CHN, complete genome
+6,125 bp linear RNA 
+ON682298.1 GI:2459893706
+
+144. UNVERIFIED: Bovine astrovirus strain BoAstV62/2021/CHN, complete genome
+6,164 bp linear RNA 
+ON682297.1 GI:2459893704
+
+145. UNVERIFIED: Bovine astrovirus strain BoAstV59/2021/CHN, complete genome
+6,129 bp linear RNA 
+ON682294.1 GI:2459893696
+
+146. UNVERIFIED: Bovine astrovirus strain BoAstV49/2021/CHN, complete genome
+5,994 bp linear RNA 
+ON682284.1 GI:2459893667
+
+147. UNVERIFIED: Bovine astrovirus strain BoAstV45/2021/CHN, complete genome
+6,214 bp linear RNA 
+ON682280.1 GI:2459893656
+
+148. UNVERIFIED: Bovine astrovirus strain BoAstV44/2021/CHN, complete genome
+6,242 bp linear RNA 
+ON682279.1 GI:2459893654
+
+149. UNVERIFIED: Bovine astrovirus strain BoAstV42/2021/CHN, complete genome
+6,240 bp linear RNA 
+ON682277.1 GI:2459893649
+
+150. UNVERIFIED: Bovine astrovirus strain BoAstV39/2021/CHN, complete genome
+6,003 bp linear RNA 
+ON682274.1 GI:2459893641
+
+151. UNVERIFIED: Bovine astrovirus strain BoAstV38/2021/CHN, complete genome
+6,196 bp linear RNA 
+ON682273.1 GI:2459893639
+
+152. UNVERIFIED: Bovine astrovirus strain BoAstV36/2021/CHN, complete genome
+6,119 bp linear RNA 
+ON682271.1 GI:2459893634
+
+153. UNVERIFIED: Goose astrovirus isolate AstV/AHHX genomic sequence
+7,251 bp linear RNA 
+ON971223.1 GI:2447998452
+
+154. UNVERIFIED: Goose astrovirus isolate Astv/Goose/Heilongjiang/ZYL02/2019, complete genome
+7,182 bp linear RNA 
+OM811460.1 GI:2431471689
+
+155. UNVERIFIED: Goose astrovirus isolate Astv/Goose/Heilongjiang/ZYL03/2019, complete genome
+7,191 bp linear RNA 
+OM811459.1 GI:2431471686
+
+156. UNVERIFIED: Bovine astrovirus strain HLJ/MDJ/29/2022 ORF1a-like gene, partial sequence
+301 bp linear RNA 
+ON010707.1 GI:2426964265
+
+157. UNVERIFIED: Bovine astrovirus strain HLJ/MDJ/28/2022 ORF1a-like gene, partial sequence
+266 bp linear RNA 
+ON010706.1 GI:2426964264
+
+158. UNVERIFIED: Bovine astrovirus strain HLJ/SYS/27/2022 ORF1a-like gene, partial sequence
+285 bp linear RNA 
+ON010705.1 GI:2426964263
+
+159. UNVERIFIED: Bovine astrovirus strain HLJ/QQHE/26/2022 ORF1a-like gene, partial sequence
+252 bp linear RNA 
+ON010704.1 GI:2426964261
+
+160. UNVERIFIED: Bovine astrovirus strain HLJ/QQHE/25/2022 ORF1a-like gene, partial sequence
+246 bp linear RNA 
+ON010703.1 GI:2426964260
+
+161. UNVERIFIED: Bovine astrovirus strain HLJ/YC/24/2022 ORF1a-like gene, partial sequence
+341 bp linear RNA 
+ON010702.1 GI:2426964259
+
+162. UNVERIFIED: Bovine astrovirus strain HLJ/JX/23/2022 ORF1a-like gene, partial sequence
+276 bp linear RNA 
+ON010701.1 GI:2426964258
+
+163. UNVERIFIED: Bovine astrovirus strain HLJ/JX/22/2022 ORF1a-like gene, partial sequence
+303 bp linear RNA 
+ON010700.1 GI:2426964257
+
+164. UNVERIFIED: Bovine astrovirus strain HLJ/JX/21/2022 ORF1a-like gene, partial sequence
+276 bp linear RNA 
+ON010699.1 GI:2426964256
+
+165. UNVERIFIED: Bovine astrovirus strain HLJ/JX/20/2022 ORF1a-like gene, partial sequence
+243 bp linear RNA 
+ON010698.1 GI:2426964255
+
+166. UNVERIFIED: Bovine astrovirus strain HLJ/HG/19/2022 ORF1a-like gene, partial sequence
+236 bp linear RNA 
+ON010697.1 GI:2426964254
+
+167. UNVERIFIED: Bovine astrovirus strain HLJ/HH/18/2022 ORF1a-like gene, partial sequence
+243 bp linear RNA 
+ON010696.1 GI:2426964253
+
+168. UNVERIFIED: Bovine astrovirus strain HLJ/HH/17/2022 ORF1a-like gene, partial sequence
+234 bp linear RNA 
+ON010695.1 GI:2426964252
+
+169. UNVERIFIED: Bovine astrovirus strain HLJ/HH/16/2022 ORF1a-like gene, partial sequence
+243 bp linear RNA 
+ON010694.1 GI:2426964251
+
+170. UNVERIFIED: Bovine astrovirus strain HLJ/HH/15/2022 ORF1a-like gene, partial sequence
+273 bp linear RNA 
+ON010693.1 GI:2426964250
+
+171. UNVERIFIED: Bovine astrovirus strain HLJ/HH/14/2022 ORF1a-like gene, partial sequence
+273 bp linear RNA 
+ON010692.1 GI:2426964249
+
+172. UNVERIFIED: Bovine astrovirus strain HLJ/HH/13/2022 ORF1a-like gene, partial sequence
+252 bp linear RNA 
+ON010691.1 GI:2426964248
+
+173. UNVERIFIED: Bovine astrovirus strain HLJ/HH/12/2022 ORF1a-like gene, partial sequence
+251 bp linear RNA 
+ON010690.1 GI:2426964247
+
+174. UNVERIFIED: Bovine astrovirus strain HLJ/HH/11/2022 ORF1a-like gene, partial sequence
+272 bp linear RNA 
+ON010689.1 GI:2426964246
+
+175. UNVERIFIED: Bovine astrovirus strain HLJ/HH/10/2022 ORF1a-like gene, partial sequence
+340 bp linear RNA 
+ON010688.1 GI:2426964245
+
+176. UNVERIFIED: Bovine astrovirus strain HLJ/HEB/9/2022 ORF1a-like gene, partial sequence
+303 bp linear RNA 
+ON010687.1 GI:2426964244
+
+177. UNVERIFIED: Bovine astrovirus strain HLJ/HEB/8/2022 ORF1a-like gene, partial sequence
+282 bp linear RNA 
+ON010686.1 GI:2426964242
+
+178. UNVERIFIED: Bovine astrovirus strain HLJ/HEB/7/2022 ORF1a-like gene, partial sequence
+290 bp linear RNA 
+ON010685.1 GI:2426964241
+
+179. UNVERIFIED: Bovine astrovirus strain HLJ/HEB/6/2022 ORF1a-like gene, partial sequence
+323 bp linear RNA 
+ON010684.1 GI:2426964240
+
+180. UNVERIFIED: Bovine astrovirus strain HLJ/HEB/5/2022 ORF1a-like gene, partial sequence
+341 bp linear RNA 
+ON010683.1 GI:2426964239
+
+181. UNVERIFIED: Bovine astrovirus strain HLJ/DXAL/4/2022 ORF1a-like gene, partial sequence
+247 bp linear RNA 
+ON010682.1 GI:2426964238
+
+182. UNVERIFIED: Bovine astrovirus strain HLJ/DXAL/3/2022 ORF1a-like gene, partial sequence
+339 bp linear RNA 
+ON010681.1 GI:2426964237
+
+183. UNVERIFIED: Bovine astrovirus strain HLJ/DXAL/2/2022 ORF1a-like gene, partial sequence
+274 bp linear RNA 
+ON010680.1 GI:2426964236
+
+184. UNVERIFIED: Bovine astrovirus strain HLJ/DXAL/1/2022 ORF1a-like gene, partial sequence
+253 bp linear RNA 
+ON010679.1 GI:2426964235
+
+185. UNVERIFIED: Bovine astrovirus strain HLJ/HH/ORF1b/2 RdRp-like gene, partial sequence
+834 bp linear RNA 
+ON010678.1 GI:2426964232
+
+186. UNVERIFIED: Bovine astrovirus strain HLJ/HH/ORF1b/1 RdRp-like gene, partial sequence
+833 bp linear RNA 
+ON010677.1 GI:2426964231
+
+187. UNVERIFIED: Goose astrovirus strain GoAstV/Guangdong/QY1/2019, partial sequence
+7,033 bp linear RNA 
+ON049473.1 GI:2287110303
+
+188. UNVERIFIED: Goose astrovirus strain GoAstV/Guangdong/NH2/2019, partial sequence
+7,033 bp linear RNA 
+ON049472.1 GI:2287110302
+
+189. UNVERIFIED: Goose astrovirus strain GoAstV/Guangdong/JYF6/2019, partial sequence
+7,033 bp linear RNA 
+ON049471.1 GI:2287110301
+
+190. UNVERIFIED: Goose astrovirus strain GoAstV/Guangdong/GZ-HOD/2021, partial sequence
+7,033 bp linear RNA 
+ON049470.1 GI:2287110300
+
+191. UNVERIFIED: Goose astrovirus strain GoAstV/Guangdong/DBN30/2019, partial sequence
+7,033 bp linear RNA 
+ON049469.1 GI:2287110299
+
+192. UNVERIFIED: Goose astrovirus strain GoAstV/Guangdong/DBN1/2019, partial sequence
+7,033 bp linear RNA 
+ON049468.1 GI:2287110298
+
+193. UNVERIFIED: Goose astrovirus strain GoAstV/Fujian/LWY5/2019, partial sequence
+7,033 bp linear RNA 
+ON049467.1 GI:2287110297
+
+194. UNVERIFIED: Goose astrovirus strain JS-1 sequence
+7,274 bp linear RNA 
+OM793621.1 GI:2313615061
+
+195. UNVERIFIED: Porcine astrovirus 4 isolate SP-VC36, partial genome
+5,269 bp linear RNA 
+ON792966.1 GI:2310111817
+
+196. UNVERIFIED: Porcine astrovirus 4 isolate SP-VC57, partial genome
+6,513 bp linear RNA 
+ON792965.1 GI:2310111813
+
+197. UNVERIFIED: Goose astrovirus isolate JS20, complete genome
+7,175 bp linear RNA 
+OK169911.1 GI:2289331158
+
+198. UNVERIFIED: Goose astrovirus isolate CHSH02 genomic sequence
+7,155 bp linear RNA 
+OM569657.1 GI:2287110333
+
+199. UNVERIFIED: Goose astrovirus isolate CHSH01 genomic sequence
+7,331 bp linear RNA 
+OM569656.1 GI:2287110332
+
+200. UNVERIFIED: Duck astrovirus strain Astrovirus/Teal/Egypt/MB-P-840C/2016 putative RNA-dependent RNA polymerase-like (ORF1ab) gene, partial sequence
+218 bp linear cRNA 
+MW787032.1 GI:2287109554
+
+201. UNVERIFIED: Turkey astrovirus 2 strain Astrovirus/Pintail/Egypt/MB-D-726C/2016 putative RNA-dependent RNA polymerase-like (ORF1ab) gene, partial sequence
+232 bp linear cRNA 
+MW787018.1 GI:2287109527
+
+202. UNVERIFIED: Mamastrovirus 3 strain PAstV5/ORF2/RVA1/KS/2019 ORF2 gene, complete sequence
+2,229 bp linear RNA 
+OM366111.1 GI:2231826511
+
+203. UNVERIFIED: Porcine astrovirus 5 isolate PoAstV5/Swine/CHI/CF2672/2017, complete genome
+6,423 bp linear RNA 
+MZ819169.1 GI:2172355107
+
+204. UNVERIFIED: Porcine astrovirus 2 isolate PoAstV2/Swine/CHI/FB148/2017, complete genome
+5,711 bp linear RNA 
+MZ819163.1 GI:2172355085
+
+205. UNVERIFIED: Mamastrovirus 22 isolate USA/IA/6535C/2018, complete genome
+6,433 bp linear RNA 
+MW653747.1 GI:2104550574
+
+206. UNVERIFIED: Astroviridae sp. isolate G20_066 sequence
+1,097 bp linear RNA 
+MW924359.1 GI:2076082225
+
+207. UNVERIFIED: Marmot astrovirus XJ2 isolate XJ2/CHN/2016 genomic sequence
+3,945 bp linear RNA 
+MW173390.1 GI:2053536976
+
+208. UNVERIFIED: Himalayan marmot astrovirus XJ1 isolate XJ1/CH/2016 genomic sequence
+4,169 bp linear RNA 
+MW173389.1 GI:2053536975
+
+209. UNVERIFIED: Porcine astrovirus 3 strain USA/IA/53214/2018, complete genome
+6,434 bp linear RNA 
+MT394896.1 GI:2052623905
+
+210. UNVERIFIED: Porcine astrovirus 3 strain USA/IA/48142/2018, complete genome
+6,434 bp linear RNA 
+MT394895.1 GI:2052623904
+
+211. UNVERIFIED: Astrovirus sp. isolate Xn545 capsid protein-like gene, partial sequence
+419 bp linear RNA 
+MT228622.1 GI:1993675543
+
+212. UNVERIFIED: Astrovirus sp. isolate XN37 capsid protein-like gene, partial sequence
+419 bp linear RNA 
+MT228621.1 GI:1993675542
+
+213. UNVERIFIED: Astrovirus sp. isolate XN309 capsid protein-like gene, partial sequence
+420 bp linear RNA 
+MT228620.1 GI:1993675541
+
+214. UNVERIFIED: Astrovirus sp. isolate XN528 capsid protein-like gene, partial sequence
+419 bp linear RNA 
+MT228619.1 GI:1993675540
+
+215. UNVERIFIED: Astrovirus sp. isolate XN461 capsid protein-like gene, partial sequence
+421 bp linear RNA 
+MT228618.1 GI:1993675539
+
+216. UNVERIFIED: Astrovirus sp. isolate XN527 capsid protein-like gene, partial sequence
+421 bp linear RNA 
+MT228617.1 GI:1993675538
+
+217. UNVERIFIED: Astrovirus sp. isolate XN36 capsid protein-like gene, partial sequence
+420 bp linear RNA 
+MT228616.1 GI:1993675537
+
+218. UNVERIFIED: Human astrovirus 2 isolate G19054 genomic sequence
+6,353 bp linear RNA 
+MN510442.1 GI:1773362557
+
+219. UNVERIFIED: Human astrovirus 3 isolate G19053 genomic sequence
+6,429 bp linear RNA 
+MN510441.1 GI:1773362556
+
+220. UNVERIFIED: Human astrovirus 2 isolate G19052 genomic sequence
+6,788 bp linear RNA 
+MN510440.1 GI:1773362555
+
+221. UNVERIFIED: Human astrovirus 1 isolate G19051 genomic sequence
+6,772 bp linear RNA 
+MN510439.1 GI:1773362554
+
+222. UNVERIFIED: Astrovirus sp. isolate FAS53 outer capsid protein-like gene, partial sequence
+411 bp linear RNA 
+MH925760.1 GI:1741441652
+
+223. UNVERIFIED: Astrovirus sp. isolate FAS2 outer capsid protein-like gene, partial sequence
+449 bp linear RNA 
+MH925759.1 GI:1741441651
+
+224. UNVERIFIED: Astrovirus sp. isolate FASC828 outer capsid protein-like gene, partial sequence
+375 bp linear RNA 
+MH925758.1 GI:1741441650
+
+225. UNVERIFIED: Avian nephritis virus 2 isolate NGR_ANV_Ch capsid protein-like gene, partial sequence
+318 bp linear RNA 
+MN026335.1 GI:1735130303
+
+226. UNVERIFIED: Pink-eared duck avastrovirus non-structural polyprotein-like (ORF1ab) gene, partial sequence
+1,801 bp linear RNA 
+MK204414.1 GI:1717988709
+
+227. UNVERIFIED: Red-necked stint avastrovirus non-structural polyprotein-like (ORF1ab) gene, complete sequence; and structural protein (ORF2) gene, complete cds
+7,519 bp linear RNA 
+MK204385.1 GI:1717987984
+
+228. UNVERIFIED: Mamastrovirus 10 isolate 11az RNA-dependent RNA polymerase-like gene, partial sequence
+226 bp linear RNA 
+MH282881.1 GI:1465231709
+
+229. UNVERIFIED: Mamastrovirus 10 isolate 8f RNA-dependent RNA polymerase-like gene, partial sequence
+243 bp linear RNA 
+MH282879.1 GI:1465231706
+
+230. UNVERIFIED: Porcine astrovirus isolate PAstV/1156/IA RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+697 bp linear RNA 
+JF272600.1 GI:342730836
+
+231. UNVERIFIED: Porcine astrovirus isolate PAstV/1155/IL RNA-dependent RNA polymerase-like and capsid-like genes, partial sequence
+710 bp linear RNA 
+JF272599.1 GI:342730835
+
+232. UNVERIFIED: Porcine astrovirus isolate PAstV/1154/IL RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+759 bp linear RNA 
+JF272598.1 GI:342730833
+
+233. UNVERIFIED: Porcine astrovirus isolate PAstV/1153/IL RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+731 bp linear RNA 
+JF272597.1 GI:342730831
+
+234. UNVERIFIED: Porcine astrovirus isolate PAstV/1152/Can RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+660 bp linear RNA 
+JF272596.1 GI:342730829
+
+235. UNVERIFIED: Porcine astrovirus isolate PAstV/1151/IL RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+726 bp linear RNA 
+JF272595.1 GI:342730827
+
+236. UNVERIFIED: Porcine astrovirus isolate PAstV/1150/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+746 bp linear RNA 
+JF272594.1 GI:342730825
+
+237. UNVERIFIED: Porcine astrovirus isolate PAstV/1149/OK RNA-dependent RNA polymerase-like and capsid-like genes, partial sequence
+627 bp linear RNA 
+JF272593.1 GI:342730824
+
+238. UNVERIFIED: Porcine astrovirus isolate PAstV/1148/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+670 bp linear RNA 
+JF272592.1 GI:342730822
+
+239. UNVERIFIED: Porcine astrovirus isolate PAstV/1147/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+727 bp linear RNA 
+JF272591.1 GI:342730820
+
+240. UNVERIFIED: Porcine astrovirus isolate PAstV/1146/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+730 bp linear RNA 
+JF272590.1 GI:342730818
+
+241. UNVERIFIED: Porcine astrovirus isolate PAstV/1145/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+755 bp linear RNA 
+JF272589.1 GI:342730816
+
+242. UNVERIFIED: Porcine astrovirus isolate PAstV/1144/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+669 bp linear RNA 
+JF272588.1 GI:342730814
+
+243. UNVERIFIED: Porcine astrovirus isolate PAstV/1143/MS RNA-dependent RNA polymerase-like and capsid-like genes, partial sequence
+656 bp linear RNA 
+JF272587.1 GI:342730813
+
+244. UNVERIFIED: Porcine astrovirus isolate PAstV/1142/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+782 bp linear RNA 
+JF272586.1 GI:342730811
+
+245. UNVERIFIED: Porcine astrovirus isolate PAstV/1141/Mex RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+700 bp linear RNA 
+JF272585.1 GI:342730809
+
+246. UNVERIFIED: Porcine astrovirus isolate PAstV/1140/OK RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+684 bp linear RNA 
+JF272584.1 GI:342730807
+
+247. UNVERIFIED: Porcine astrovirus isolate PAstV/1139/NC RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+777 bp linear RNA 
+JF272583.1 GI:342730805
+
+248. UNVERIFIED: Porcine astrovirus isolate PAstV/1138/Mex RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+777 bp linear RNA 
+JF272582.1 GI:342730803
+
+249. UNVERIFIED: Porcine astrovirus isolate PAstV/1137/NE RNA-dependent RNA polymerase-like and capsid-like genes, partial sequence
+698 bp linear RNA 
+JF272581.1 GI:342730802
+
+250. UNVERIFIED: Porcine astrovirus isolate PAstV/1136/SD RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+683 bp linear RNA 
+JF272580.1 GI:342730800
+
+251. UNVERIFIED: Porcine astrovirus isolate PAstV/1135/OK RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+735 bp linear RNA 
+JF272579.1 GI:342730798
+
+252. UNVERIFIED: Porcine astrovirus isolate PAstV/1134/KS RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+754 bp linear RNA 
+JF272578.1 GI:342730796
+
+253. UNVERIFIED: Porcine astrovirus isolate PAstV/1133/NC RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+670 bp linear RNA 
+JF272577.1 GI:342730794
+
+254. UNVERIFIED: Porcine astrovirus isolate PAstV/1132/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+774 bp linear RNA 
+JF272576.1 GI:342730792
+
+255. UNVERIFIED: Porcine astrovirus isolate PAstV/1131/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+737 bp linear RNA 
+JF272575.1 GI:342730790
+
+256. UNVERIFIED: Porcine astrovirus isolate PAstV/1130/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+753 bp linear RNA 
+JF272574.1 GI:342730788
+
+257. UNVERIFIED: Porcine astrovirus isolate PAstV/1129/MN RNA-dependent RNA polymerase-like and capsid-like genes, partial sequence
+743 bp linear RNA 
+JF272573.1 GI:342730787
+
+258. UNVERIFIED: Porcine astrovirus isolate PAstV/1128/VA RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+762 bp linear RNA 
+JF272572.1 GI:342730785
+
+259. UNVERIFIED: Porcine astrovirus isolate PAstV/1127/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+734 bp linear RNA 
+JF272571.1 GI:342730783
+
+260. UNVERIFIED: Porcine astrovirus isolate PAstV/1126/MN RNA-dependent RNA polymerase-like and capsid-like genes, partial sequence
+750 bp linear RNA 
+JF272570.1 GI:342730782
+
+261. UNVERIFIED: Porcine astrovirus isolate PAstV/1125/NE RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+770 bp linear RNA 
+JF272569.1 GI:342730780
+
+262. UNVERIFIED: Porcine astrovirus isolate PAstV/1124/IL RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+685 bp linear RNA 
+JF272568.1 GI:342730778
+
+263. UNVERIFIED: Porcine astrovirus isolate PAstV/1123/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+694 bp linear RNA 
+JF272567.1 GI:342730776
+
+264. UNVERIFIED: Porcine astrovirus isolate PAstV/1122/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+753 bp linear RNA 
+JF272566.1 GI:342730774
+
+265. UNVERIFIED: Porcine astrovirus isolate PAstV/1121/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+606 bp linear RNA 
+JF272565.1 GI:342730772
+
+266. UNVERIFIED: Porcine astrovirus isolate PAstV/1120/TN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+714 bp linear RNA 
+JF272564.1 GI:342730770
+
+267. UNVERIFIED: Porcine astrovirus isolate PAstV/1119/MS RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+732 bp linear RNA 
+JF272563.1 GI:342730768
+
+268. UNVERIFIED: Porcine astrovirus isolate PAstV/1118/NC RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+768 bp linear RNA 
+JF272562.1 GI:342730766
+
+269. UNVERIFIED: Porcine astrovirus isolate PAstV/1117/MN RNA-dependent RNA polymerase-like and capsid-like genes, partial sequence
+714 bp linear RNA 
+JF272561.1 GI:342730765
+
+270. UNVERIFIED: Porcine astrovirus isolate PAstV/1116/PA RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+776 bp linear RNA 
+JF272560.1 GI:342730763
+
+271. UNVERIFIED: Porcine astrovirus isolate PAstV/1115/MS RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+770 bp linear RNA 
+JF272559.1 GI:342730761
+
+272. UNVERIFIED: Porcine astrovirus isolate PAstV/1114/SD RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+663 bp linear RNA 
+JF272558.1 GI:342730759
+
+273. UNVERIFIED: Porcine astrovirus isolate PAstV/1113/AZ RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+718 bp linear RNA 
+JF272557.1 GI:342730757
+
+274. UNVERIFIED: Porcine astrovirus isolate PAstV/1112/VA RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+684 bp linear RNA 
+JF272556.1 GI:342730755
+
+275. UNVERIFIED: Porcine astrovirus isolate PAstV/1111/MS RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+574 bp linear RNA 
+JF272555.1 GI:342730753
+
+276. UNVERIFIED: Porcine astrovirus isolate PAstV/1110/AZ RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+762 bp linear RNA 
+JF272554.1 GI:342730751
+
+277. UNVERIFIED: Porcine astrovirus isolate PAstV/1109/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+698 bp linear RNA 
+JF272553.1 GI:342730749
+
+278. UNVERIFIED: Porcine astrovirus isolate PAstV/1108/SD RNA-dependent RNA polymerase-like and capsid-like genes, partial sequence
+653 bp linear RNA 
+JF272552.1 GI:342730748
+
+279. UNVERIFIED: Porcine astrovirus isolate PAstV/1107/TN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+613 bp linear RNA 
+JF272551.1 GI:342730746
+
+280. UNVERIFIED: Porcine astrovirus isolate PAstV/1106/Mex RNA-dependent RNA polymerase-like and capsid-like genes, partial sequence
+646 bp linear RNA 
+JF272550.1 GI:342730745
+
+281. UNVERIFIED: Porcine astrovirus isolate PAstV/1105/Mex RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+697 bp linear RNA 
+JF272549.1 GI:342730743
+
+282. UNVERIFIED: Porcine astrovirus isolate PAstV/1104/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+769 bp linear RNA 
+JF272548.1 GI:342730741
+
+283. UNVERIFIED: Porcine astrovirus isolate PAstV/1103/IL RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+594 bp linear RNA 
+JF272547.1 GI:342730739
+
+284. UNVERIFIED: Porcine astrovirus isolate PAstV/1102/IL RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+770 bp linear RNA 
+JF272546.1 GI:342730737
+
+285. UNVERIFIED: Porcine astrovirus isolate PAstV/1101/MN RNA-dependent RNA polymerase gene, partial cds; and capsid-like gene, partial sequence
+656 bp linear RNA 
+JF272545.1 GI:342730735
+
+286. UNVERIFIED: Chicken astrovirus polymerase-like gene, partial sequence
+342 bp linear RNA 
+KU253625.1 GI:1026943967
+
+287. UNVERIFIED: Turkey astrovirus 1 isolate TastV-1/UMN12/PES/RdRp/Turkey/USA/MN/2010 polymerase-like (ORF1b) gene, partial sequence
+858 bp linear RNA 
+KT355303.1 GI:970598157
+
+288. UNVERIFIED: Turkey astrovirus 1 isolate TastV-1/UMN10/PES/RdRp/Turkey/USA/MN/2010 polymerase-like (ORF1b) gene, partial sequence
+903 bp linear RNA 
+KT355301.1 GI:970598154
+
+289. UNVERIFIED: Turkey astrovirus 1 isolate TastV-1/UMN9/PES/RdRp/Turkey/USA/MN/2010 polymerase-like (ORF1b) gene, partial sequence
+873 bp linear RNA 
+KT355300.1 GI:970598153
+
+290. UNVERIFIED: Turkey astrovirus 1 isolate TastV-1/UMN3/PES/RdRp/Turkey/USA/MN/2010 polymerase-like (ORF1b) gene, partial sequence
+960 bp linear RNA 
+KT355294.1 GI:970598142
+
+291. UNVERIFIED: Turkey astrovirus 1 isolate TastV-1/UMN1/PES/RdRp/Turkey/USA/MN/2010 polymerase-like (ORF1b) gene, partial sequence
+873 bp linear RNA 
+KT355292.1 GI:970598139
+
+292. UNVERIFIED: Avian nephritis virus isolate ANV/UMN21/PES/RdRp/Turkey/USA/MN/2014 polymerase-like (ORF1b) gene, partial sequence
+669 bp linear RNA 
+KT355290.1 GI:970598136
+
+293. UNVERIFIED: Avian nephritis virus isolate ANV/UMN17/PES/RdRp/Turkey/USA/MN/2011 polymerase-like (ORF1b) gene, partial sequence
+654 bp linear RNA 
+KT355286.1 GI:970598129
+
+294. UNVERIFIED: Avian nephritis virus isolate ANV/UMN10/LTS/RdRp/Turkey/USA/MN/2011 polymerase-like (ORF1b) gene, partial sequence
+675 bp linear RNA 
+KT355279.1 GI:970598116
+
+295. UNVERIFIED: Avian nephritis virus isolate ANV/UMN9/LTS/RdRp/Turkey/USA/MN/2011 polymerase-like (ORF1b) gene, partial sequence
+669 bp linear RNA 
+KT355278.1 GI:970598115
+
+296. UNVERIFIED: Avian nephritis virus isolate ANV/UMN1/PES/RdRp/Turkey/USA/MN/2009 polymerase-like (ORF1b) gene, partial sequence
+663 bp linear RNA 
+KT355270.1 GI:970598100
+
+297. UNVERIFIED: Turkey astrovirus 1 isolate TastV-1/UMN1/PES/Capsid capsid-like (ORF2) gene, partial sequence
+810 bp linear RNA 
+KT355321.1 GI:970598192
+
+298. UNVERIFIED: Bat astrovirus Myl/YN/hsac2 capsid protein-like (ORF2) gene, partial sequence
+1,566 bp linear RNA 
+KT003292.1 GI:961554840
+
+299. UNVERIFIED: Human astrovirus 8 clone 0315m3 nonstructural protein-like gene, partial sequence
+223 bp linear RNA 
+KF854592.1 GI:583157157
+
+300. UNVERIFIED: Human astrovirus 8 clone 0315m4 nonstructural protein-like gene, partial sequence
+224 bp linear RNA 
+KF854591.1 GI:583157154
+
+301. UNVERIFIED: Human astrovirus 8 clone 30424M nonstructural protein-like gene, partial sequence
+212 bp linear RNA 
+KF854590.1 GI:583157152
+
+302. UNVERIFIED: Human astrovirus 8 clone 0424m2+ nonstructural protein-like gene, partial sequence
+213 bp linear RNA 
+KF854589.1 GI:583157149
+
+303. UNVERIFIED: Human astrovirus 1 clone 0428m1 nonstructural protein-like gene, partial sequence
+224 bp linear RNA 
+KF854588.1 GI:583157147
+
+304. UNVERIFIED: Human astrovirus 1 clone 0424m1+ nonstructural protein-like gene, partial sequence
+224 bp linear RNA 
+KF854587.1 GI:583157145
+
+305. UNVERIFIED: Human astrovirus 1 clone 0244M nonstructural protein-like gene, partial sequence
+224 bp linear RNA 
+KF854586.1 GI:583157143
+
+306. UNVERIFIED: Human astrovirus 1 clone 0427m1 nonstructural protein-like gene, partial sequence
+224 bp linear RNA 
+KF854585.1 GI:583157140
+
+307. UNVERIFIED: Human astrovirus 1 clone 0504M nonstructural protein-like gene, partial sequence
+224 bp linear RNA 
+KF854584.1 GI:583157137
+
+308. UNVERIFIED: Human astrovirus 1 clone 0427M nonstructural protein-like gene, partial sequence
+224 bp linear RNA 
+KF854583.1 GI:583157134
+
+309. UNVERIFIED: Human astrovirus 1 clone 0428M nonstructural protein-like gene, partial sequence
+224 bp linear RNA 
+KF854582.1 GI:583157132
+
+310. UNVERIFIED: Human astrovirus 1 clone 0427m2 nonstructural protein-like gene, partial sequence
+224 bp linear RNA 
+KF854581.1 GI:583157129
+
+311. UNVERIFIED: Human astrovirus 8 clone 0619M nonstructural protein-like gene, partial sequence
+224 bp linear RNA 
+KF854580.1 GI:583157126
+
+312. UNVERIFIED: Human astrovirus 8 clone 0515m1 nonstructural protein-like gene, partial sequence
+212 bp linear RNA 
+KF854579.1 GI:583157124
+
+313. UNVERIFIED: Human astrovirus 8 clone 0315m1 nonstructural protein-like gene, partial sequence
+224 bp linear RNA 
+KF854578.1 GI:583157121
+
+314. UNVERIFIED: Human astrovirus 4 isolate ZJH-32 capsid protein-like (ORF2) gene, partial sequence
+201 bp linear RNA 
+KF782354.1 GI:575920499
+
+315. UNVERIFIED: Human astrovirus 4 isolate ZJH-31 capsid protein-like (ORF2) gene, partial sequence
+203 bp linear RNA 
+KF782353.1 GI:575920498
+
+316. UNVERIFIED: Human astrovirus 1 isolate ZJH-30 capsid protein-like (ORF2) gene, partial sequence
+202 bp linear RNA 
+KF782352.1 GI:575920497
+
+317. UNVERIFIED: Human astrovirus 1 isolate ZJH-29 capsid protein-like (ORF2) gene, partial sequence
+205 bp linear RNA 
+KF782351.1 GI:575920496
+
+318. UNVERIFIED: Human astrovirus 1 isolate ZJH-28 capsid protein-like (ORF2) gene, partial sequence
+202 bp linear RNA 
+KF782350.1 GI:575920495
+
+319. UNVERIFIED: Human astrovirus 1 isolate ZJH-27 capsid protein-like (ORF2) gene, partial sequence
+200 bp linear RNA 
+KF782349.1 GI:575920494
+
+320. UNVERIFIED: Human astrovirus 4 isolate ZJH-26 capsid protein-like (ORF2) gene, partial sequence
+206 bp linear RNA 
+KF782348.1 GI:575920493
+
+321. UNVERIFIED: Human astrovirus 1 isolate ZJH-25 capsid protein-like (ORF2) gene, partial sequence
+206 bp linear RNA 
+KF782347.1 GI:575920492
+
+322. UNVERIFIED: Human astrovirus 1 isolate ZJH-24 capsid protein-like (ORF2) gene, partial sequence
+202 bp linear RNA 
+KF782346.1 GI:575920491
+
+323. UNVERIFIED: Human astrovirus 1 isolate ZJH-23 capsid protein-like (ORF2) gene, partial sequence
+202 bp linear RNA 
+KF782345.1 GI:575920490
+
+324. UNVERIFIED: Human astrovirus 4 isolate ZJH-22 capsid protein-like (ORF2) gene, partial sequence
+205 bp linear RNA 
+KF782344.1 GI:575920489
+
+325. UNVERIFIED: Human astrovirus 1 isolate ZJH-21 capsid protein-like (ORF2) gene, partial sequence
+206 bp linear RNA 
+KF782343.1 GI:575920488
+
+326. UNVERIFIED: Human astrovirus 1 isolate ZJH-20 capsid protein-like (ORF2) gene, partial sequence
+205 bp linear RNA 
+KF782342.1 GI:575920487
+
+327. UNVERIFIED: Human astrovirus 1 isolate ZJH-19 capsid protein-like (ORF2) gene, partial sequence
+203 bp linear RNA 
+KF782341.1 GI:575920486
+
+328. UNVERIFIED: Human astrovirus 1 isolate ZJH-18 capsid protein-like (ORF2) gene, partial sequence
+203 bp linear RNA 
+KF782340.1 GI:575920485
+
+329. UNVERIFIED: Human astrovirus 1 isolate ZJH-17 capsid protein-like (ORF2) gene, partial sequence
+205 bp linear RNA 
+KF782339.1 GI:575920484
+
+330. UNVERIFIED: Human astrovirus 1 isolate ZJH-16 capsid protein-like (ORF2) gene, partial sequence
+201 bp linear RNA 
+KF782338.1 GI:575920483
+
+331. UNVERIFIED: Human astrovirus 1 isolate ZJH-15 capsid protein-like (ORF2) gene, partial sequence
+204 bp linear RNA 
+KF782337.1 GI:575920482
+
+332. UNVERIFIED: Human astrovirus 4 isolate ZJH-14 capsid protein-like (ORF2) gene, partial sequence
+201 bp linear RNA 
+KF782336.1 GI:575920481
+
+333. UNVERIFIED: Human astrovirus 1 isolate ZJH-13 capsid protein-like (ORF2) gene, partial sequence
+201 bp linear RNA 
+KF782335.1 GI:575920480
+
+334. UNVERIFIED: Human astrovirus 1 isolate ZJH-12 capsid protein-like (ORF2) gene, partial sequence
+204 bp linear RNA 
+KF782334.1 GI:575920479
+
+335. UNVERIFIED: Human astrovirus 4 isolate ZJH-11 capsid protein-like (ORF2) gene, partial sequence
+200 bp linear RNA 
+KF782333.1 GI:575920478
+
+336. UNVERIFIED: Human astrovirus 4 isolate ZJH-10 capsid protein-like (ORF2) gene, partial sequence
+202 bp linear RNA 
+KF782332.1 GI:575920477
+
+337. UNVERIFIED: Human astrovirus 1 isolate ZJH-9 capsid protein-like (ORF2) gene, partial sequence
+208 bp linear RNA 
+KF782331.1 GI:575920476
+
+338. UNVERIFIED: Human astrovirus 1 isolate ZJH-8 capsid protein-like (ORF2) gene, partial sequence
+202 bp linear RNA 
+KF782330.1 GI:575920475
+
+339. UNVERIFIED: Human astrovirus 4 isolate ZJH-7 capsid protein-like (ORF2) gene, partial sequence
+201 bp linear RNA 
+KF782329.1 GI:575920474
+
+340. UNVERIFIED: Human astrovirus 4 isolate ZJH-6 capsid protein-like (ORF2) gene, partial sequence
+203 bp linear RNA 
+KF782328.1 GI:575920473
+
+341. UNVERIFIED: Human astrovirus 4 isolate ZJH-5 capsid protein-like (ORF2) gene, partial sequence
+200 bp linear RNA 
+KF782327.1 GI:575920472
+
+342. UNVERIFIED: Human astrovirus 1 isolate ZJH-4 capsid protein-like (ORF2) gene, partial sequence
+202 bp linear RNA 
+KF782326.1 GI:575920471
+
+343. UNVERIFIED: Human astrovirus 1 isolate ZJH-3 capsid protein-like (ORF2) gene, partial sequence
+200 bp linear RNA 
+KF782325.1 GI:575920470
+
+344. UNVERIFIED: Human astrovirus 1 isolate ZJH-2 capsid protein-like (ORF2) gene, partial sequence
+204 bp linear RNA 
+KF782324.1 GI:575920469
+
+345. UNVERIFIED: Human astrovirus 4 isolate ZJH-1 capsid protein-like (ORF2) gene, partial sequence
+201 bp linear RNA 
+KF782323.1 GI:575920468
+
+346. UNVERIFIED: Dog astrovirus ORF1a-like gene, partial sequence; ORF1b gene, partial cds; and ORF2 gene, complete cds
+5,011 bp linear RNA 
+JQ081297.1 GI:385719288
+
+347. UNVERIFIED: Human astrovirus 5 isolate BA247/08-144 capsid protein-like gene, partial sequence
+381 bp linear RNA 
+JQ434397.1 GI:385275372
+
+348. UNVERIFIED: Human astrovirus 4a isolate BA393/08-65 capsid protein-like gene, partial sequence
+376 bp linear RNA 
+JQ434396.1 GI:385275371
+
+349. UNVERIFIED: Human astrovirus 4a isolate BA247/08-111 capsid protein-like gene, partial sequence
+377 bp linear RNA 
+JQ434395.1 GI:385275370
+
+350. UNVERIFIED: Human astrovirus 2c isolate PA100/08 capsid protein-like gene, partial sequence
+348 bp linear RNA 
+JQ434394.1 GI:385275369
+
+351. UNVERIFIED: Human astrovirus 1d isolate BA247/08-85 capsid protein-like gene, partial sequence
+378 bp linear RNA 
+JQ434393.1 GI:385275368
+
+352. UNVERIFIED: Human astrovirus 1d isolate BA247/08-130 capsid protein-like gene, partial sequence
+380 bp linear RNA 
+JQ434392.1 GI:385275367
+
+353. UNVERIFIED: Human astrovirus 1d isolate BA247/08-146 capsid protein-like gene, partial sequence
+380 bp linear RNA 
+JQ434391.1 GI:385275366
+
+354. UNVERIFIED: Human astrovirus 1d isolate BA247/08-77 capsid protein-like gene, partial sequence
+381 bp linear RNA 
+JQ434390.1 GI:385275365
+
+355. UNVERIFIED: Human astrovirus 1d isolate BA247/08-58 capsid protein-like gene, partial sequence
+380 bp linear RNA 
+JQ434389.1 GI:385275364
+
+356. UNVERIFIED: Human astrovirus 1d isolate BA247/08-43 capsid protein-like gene, partial sequence
+381 bp linear RNA 
+JQ434388.1 GI:385275363
+
+357. UNVERIFIED: Human astrovirus 1d isolate BA247/08-05 capsid protein-like gene, partial sequence
+380 bp linear RNA 
+JQ434387.1 GI:385275362
+
+358. UNVERIFIED: Human astrovirus 1d isolate BA393/08-95 capsid protein-like gene, partial sequence
+380 bp linear RNA 
+JQ434386.1 GI:385275361
+
+359. UNVERIFIED: Human astrovirus 1d isolate BA393/08-94 capsid protein-like gene, partial sequence
+380 bp linear RNA 
+JQ434385.1 GI:385275360
+
+360. UNVERIFIED: Human astrovirus 1d isolate BA393/08-93 capsid protein-like gene, partial sequence
+381 bp linear RNA 
+JQ434384.1 GI:385275359
+
+361. UNVERIFIED: Human astrovirus 1d isolate BA393/08-71 capsid protein-like gene, partial sequence
+378 bp linear RNA 
+JQ434383.1 GI:385275358
+
+362. UNVERIFIED: Human astrovirus 1d isolate BA393/08-62 capsid protein-like gene, partial sequence
+379 bp linear RNA 
+JQ434382.1 GI:385275357
+
+363. UNVERIFIED: Human astrovirus 1d isolate BA393/08-56 capsid protein-like gene, partial sequence
+381 bp linear RNA 
+JQ434381.1 GI:385275356
+
+364. UNVERIFIED: Human astrovirus 1d isolate BA393/08-52 capsid protein-like gene, partial sequence
+381 bp linear RNA 
+JQ434380.1 GI:385275355
+
+365. UNVERIFIED: Human astrovirus 1a isolate BA265/09-35 capsid protein-like gene, partial sequence
+348 bp linear RNA 
+JQ434379.1 GI:385275354
+
+366. UNVERIFIED: Human astrovirus 1a isolate BA265/09-33 capsid protein-like gene, partial sequence
+347 bp linear RNA 
+JQ434378.1 GI:385275353
+
+367. UNVERIFIED: Human astrovirus 1a isolate BA265/09-32 capsid protein-like gene, partial sequence
+368 bp linear RNA 
+JQ434377.1 GI:385275352
+
+368. UNVERIFIED: Human astrovirus 1a isolate BA265/09-29 capsid protein-like gene, partial sequence
+364 bp linear RNA 
+JQ434376.1 GI:385275351
+
+369. UNVERIFIED: Human astrovirus 1a isolate BA265/09-27 capsid protein-like gene, partial sequence
+368 bp linear RNA 
+JQ434375.1 GI:385275350
+
+370. UNVERIFIED: Human astrovirus 1a isolate BA247/08-145 capsid protein-like gene, partial sequence
+263 bp linear RNA 
+JQ434374.1 GI:385275349
+
+371. UNVERIFIED: Human astrovirus 1a isolate BA247/08-62 capsid protein-like gene, partial sequence
+294 bp linear RNA 
+JQ434373.1 GI:385275348
+
+372. UNVERIFIED: Human astrovirus 1a isolate BA247/08-79 capsid protein-like gene, partial sequence
+381 bp linear RNA 
+JQ434372.1 GI:385275347
+
+373. UNVERIFIED: Human astrovirus 1a isolate BA247/08-98 capsid protein-like gene, partial sequence
+381 bp linear RNA 
+JQ434371.1 GI:385275346
+
+374. UNVERIFIED: Human astrovirus 1a isolate BA108/09 capsid protein-like gene, partial sequence
+381 bp linear RNA 
+JQ434370.1 GI:385275345
+
+375. UNVERIFIED: Human astrovirus 1a isolate PA430/09 capsid protein-like gene, partial sequence
+362 bp linear RNA 
+JQ434369.1 GI:385275344
+
+376. UNVERIFIED: Human astrovirus 1a isolate PA429/09 capsid protein-like gene, partial sequence
+379 bp linear RNA 
+JQ434368.1 GI:385275343
+
+377. UNVERIFIED: Human astrovirus 1a isolate PA418/09 capsid protein-like gene, partial sequence
+373 bp linear RNA 
+JQ434367.1 GI:385275342
+
+378. UNVERIFIED: Human astrovirus 1a isolate PA408/09 capsid protein-like gene, partial sequence
+379 bp linear RNA 
+JQ434366.1 GI:385275341
+
+379. UNVERIFIED: Human astrovirus 1a isolate PA407/09 capsid protein-like gene, partial sequence
+379 bp linear RNA 
+JQ434365.1 GI:385275340
+
+380. UNVERIFIED: Human astrovirus 1a isolate PA148/08 capsid protein-like gene, partial sequence
+340 bp linear RNA 
+JQ434364.1 GI:385275339
+
+381. UNVERIFIED: Human astrovirus 1a isolate PA36/08 capsid protein-like gene, partial sequence
+286 bp linear RNA 
+JQ434363.1 GI:385275338
+
+382. UNVERIFIED: Human astrovirus 1a isolate PA47/08 capsid protein-like gene, partial sequence
+325 bp linear RNA 
+JQ434362.1 GI:385275337
+
+383. UNVERIFIED: Human astrovirus isolate C1-110 capsid protein-like gene, partial sequence
+449 bp linear RNA 
+JN167517.1 GI:359755191
+
+384. UNVERIFIED_ORG: Bastrovirus sp. isolate RnF02/con/AstV2 nonstructural polyprotein and structural polyprotein genes, complete cds
+5,736 bp linear RNA 
+ON907858.1 GI:2610363414
+
+385. UNVERIFIED_ORG: Astroviridae sp. isolate RnF02/con/AstV1 nonstructural polyprotein and structural polyprotein genes, complete cds
+5,853 bp linear RNA 
+ON907857.1 GI:2610363302
+
+386. UNVERIFIED_ORG: Rodent astrovirus isolate RnF01/con/AstV1 ORF1A and capsid protein genes, complete cds
+6,085 bp linear RNA 
+ON907856.1 GI:2610363259
+
+387. MAG UNVERIFIED_ASMBLY: Porcine astrovirus 4 ORF1A and capsid protein genes strain PF90/con/AstV24, partial cds
+6,469 bp linear RNA 
+OP413964.1 GI:2428737669
+
+388. MAG UNVERIFIED_ASMBLY: Mamastrovirus 3 ORF1A and capsid protein genes strain PF78/con/AstV21, partial cds
+6,408 bp linear RNA 
+OP413961.1 GI:2428737666
+
+389. MAG UNVERIFIED_ASMBLY: Porcine astrovirus 2 ORF1A and capsid protein genes strain PF201/con/AstV12, partial cds
+6,800 bp linear RNA 
+OP413952.1 GI:2428737663
+
+390. MAG UNVERIFIED_ASMBLY: Porcine astrovirus 4 nonstructural polyprotein and structural polyprotein genes strain PF169/con/AstV4, partial cds
+6,782 bp linear RNA 
+OP413944.1 GI:2428737660
+
+391. UNVERIFIED_ORG: Ruddy turnstone astrovirus ORF1a, ORF1b, and ORF2 genes, complete cds
+7,033 bp linear RNA 
+MK189093.1 GI:1644671454
