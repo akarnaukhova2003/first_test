@@ -1,0 +1,220 @@
+Number of records in file: 15951
+Records with annotated CDS: 15212
+CDS with product fields 19800
+CDS with gene fields 4692
+0RF1b
+2
+3
+3C-like serine protease motif
+3C-like serine proteinase
+CP
+Capsid
+Capsid precursor protein
+Chitsmem
+Env
+Linhib
+NS
+NS1
+NSP1a
+NSP1a protein
+NSP1ab
+NSP1ab protein
+Non-structural polyprotein 1A
+Non-structural polyprotein 1AB
+Non-structural protein
+Nsp1a
+OEF1b
+OFR1ab
+OFR2
+ORF 1a
+ORF 1ab
+ORF 2
+ORF-1a serine protease protein
+ORF-1b protein
+ORF-2 protein
+ORF1
+ORF1A
+ORF1A nonstructural polyprotein
+ORF1AB
+ORF1AB nonstructural polyprotein
+ORF1B
+ORF1_1
+ORF1_2
+ORF1a
+ORF1a ORF1b
+ORF1a polyprotein
+ORF1a protein
+ORF1ab
+ORF1ab polyprotein
+ORF1ab protein
+ORF1b
+ORF1b protein
+ORF1b protein precursor
+ORF1b; translated by ribosomal frameshift
+ORF2
+ORF2 protein
+ORF2, capsid precursor protein
+ORF3
+ORF3 protein
+ORF3A
+ORF3B
+ORF4
+ORFX
+Orf 1a
+Orf 1b
+Orf 2
+Orf1a
+Orf1ab
+Orf1b
+Orf2
+Outer capsid protein precursor
+P6447
+Parboid
+Polyprotein 1ab
+RDRP
+RNA dependant RNA polymerase
+RNA dependent RNA Polymerase
+RNA dependent RNA polymerase
+RNA polymerase
+RNA-Dependent RNA polymerase
+RNA-dependant RNA polymerase
+RNA-dependent RNA polymerase
+RNA-dependent RNA polymerase ORf1b
+RNA-dependent RNA polymerase gene
+RNA-dependent RNA polymerase motif
+RNA-dependent RNA polymerase protein
+RNA-dependent RNA-polymerase
+RNA-dependent polymerase
+RdRp
+RdRp polymerase
+RdRp protein
+S
+VP1
+VP90
+cap
+capsid
+capsid polyprotein VP90
+capsid polyprotein precursor
+capsid precursor
+capsid precursor ORF2
+capsid precursor protein
+capsid precursor protein ORF2
+capsid protein
+capsid protein precursor
+caspsid protein
+cp
+gp1
+gp2
+gp3
+hypothetical protein
+hypothetical protein 1
+hypothetical protein 2
+major capsid protein precursor
+non structural protein
+non-structural ORF1a polyprotein
+non-structural ORF1ab polyprotein
+non-structural ORF1b polyprotein
+non-structural polyprotein
+non-structural polyprotein 1A
+non-structural polyprotein 1AB
+non-structural polyprotein 1a
+non-structural polyprotein 1ab
+non-structural polyprotein ORF1a
+non-structural polyprotein ORF1b
+non-structural protein
+non-structural protein 1a
+non-structural protein 1ab
+non-structural protein 1b
+non-structural protein HA
+non-structural-protein
+non-structure polyprotein
+non-structure protein
+nonstructrial protein 1a
+nonstructural ORF1a polyprotein
+nonstructural ORF1ab polyprotein
+nonstructural polyprotein
+nonstructural polyprotein 1AB
+nonstructural polyprotein 1a
+nonstructural polyprotein 1ab
+nonstructural polyprotein ORF1a
+nonstructural polyprotein ORF1ab
+nonstructural protein
+nonstructural protein 1
+nonstructural protein 1A
+nonstructural protein 1a
+nonstructural protein 1ab
+nonstructural protein 1b
+nonstructural protein NSP1a
+nonstructural protein NSP1ab
+nonstructural protein ORF1b
+nonstructural protein RdRp
+nonstructural protein nsP1a
+nonstructural protein nsp1a
+nonstructural protein nsp1ab
+nonstructural protein nspla
+nonstructural protein nsplab
+nonstructural protein, putative RNA-dependant RNA polymerase
+nonstructural protein, putative serine protase
+nsp1a
+nsp1ab
+nsp2
+orf 1a
+orf 1b
+orf 2
+orf1a
+orf1a polyprotein (pp1a)
+orf1ab
+orf1ab polyprotein
+orf1ab polyprotein (orf1ab)
+orf1ab polyprotein (pp1ab)
+orf1b
+orf2
+orf2 protein
+outer capsid precursor
+outer capsid protein
+outer capsid protein precursor
+peptidase S39
+pol
+pol protein
+pol1b
+polymerase
+polymerase 1b
+polymerase 1b protein
+polymerase protein
+polyprotein
+polyprotein 1A
+polyprotein 1AB
+polyprotein 1B
+polyprotein 1a
+polyprotein 1ab
+polyprotein 1b
+polyprotein ORF1a
+polyprotein ORF1ab
+polyprotein ORF1b
+precapsid protein
+protein of unknown function DUF3621
+putative RNA dependent RNA polymerase
+putative RNA-dependent RNA polymerase
+putative RNA-dependent polymerase
+putative RdRp
+putative capsid protein
+putative peptidase
+putative protein
+putative replicase
+putative serine protase
+putative serine protease
+putative viral coat protein
+rdrp
+reverse transcriptase-like protein
+serine protease
+structural capsid protein ORF2
+structural polyprotein
+structural protein
+truncated capsid protein
+truncated capsid protein precursor
+trypsin-like serine protease
+unknown
+viral capsid glycoprotein
+viral protease
+virus capsid polyprotein
+zinc finger protein

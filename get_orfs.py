@@ -62,6 +62,7 @@ def orf_coord(input_file, orf_map, remove_exceptions):
             pol_count = 0
             print(rec.name)
             for feature in rec.features:
+                print(feature)
                 if 'codon_start' in feature.qualifiers.keys():
                     cod_start = int(feature.qualifiers['codon_start'][0]) - 1
                     if cod_start<0:
@@ -74,17 +75,22 @@ def orf_coord(input_file, orf_map, remove_exceptions):
                         #   print(feature.qualifiers['product'][0], product)
                         
                         if product not in dict_coord[rec.name].keys():
-                            print(product)
+                            #print(dict_coord[rec.name].keys())
+                            #print("Product value not in dict: {}".format(product))
                             if product in orf_types_final:
                                 dict_coord[rec.name][product] = [int(feature.location.start) + cod_start, int(feature.location.end)]
                             elif product == '1AB':
                                 if pol_count == 1:
                                     continue
                                 else:
+                                    print("Orf1AB")
                                     print(feature.location.parts)
                                     print([int(feature.location.parts[0].start) + cod_start, int(feature.location.parts[0].end)])
-                                    dict_coord[rec.name]['1A'] = [int(feature.location.parts[0].start) + cod_start, int(feature.location.parts[0].end)]
+                                    if len(feature.location.parts) == 1:
+                                        dict_coord[rec.name]['1B'] = [int(feature.location.parts[0].start) + cod_start, int(feature.location.parts[0].end)]
                                     if len(feature.location.parts) > 1:
+                                        dict_coord[rec.name]['1A'] = [int(feature.location.parts[0].start) + cod_start, int(feature.location.parts[0].end)]
+                                    
                                         dict_coord[rec.name]['1B'] = [int(feature.location.parts[1].start) + cod_start, int(feature.location.parts[1].end)]
                                     pol_count += 1
                             elif product == '1AB_ORF':
@@ -125,6 +131,12 @@ def orf_coord(input_file, orf_map, remove_exceptions):
 
 #                            else:
 #                                print('Couldn\'t find annotation in \'gene\' qualifier for {}'.format(rec.id))
+
+
+
+
+
+
 
     for id in dict_coord.keys():
         # string to write to out_file
