@@ -122,6 +122,7 @@ nonstructural protein nsp1a,1A
 nonstructural protein nsp1ab,1AB
 nonstructural protein nspla,1AB
 nonstructural protein nsplab,1AB
+nonstructural protein,1B
 putative RNA-dependant RNA polymerase,1B
 putative serine protase,1A
 nsp1a,1A
@@ -149,7 +150,6 @@ polymerase,1B
 polymerase 1b,1B
 polymerase 1b protein,1B
 polymerase protein,1B
-polyprotein,1AB
 polyprotein 1A,1A
 polyprotein 1AB,1AB
 polyprotein 1B,1B
@@ -176,3 +176,4 @@ truncated capsid protein precursor,2
 trypsin-like serine protease,1A
 viral protease,1A
 virus capsid polyprotein,2
+polyprotein 1b-like gene,1B

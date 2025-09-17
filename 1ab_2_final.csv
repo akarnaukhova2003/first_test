@@ -149,7 +149,6 @@ polymerase,1B
 polymerase 1b,1B
 polymerase 1b protein,1B
 polymerase protein,1B
-polyprotein,1AB
 polyprotein 1A,1A
 polyprotein 1AB,1AB
 polyprotein 1B,1B
@@ -176,3 +175,4 @@ truncated capsid protein precursor,2
 trypsin-like serine protease,1A
 viral protease,1A
 virus capsid polyprotein,2
+polyprotein 1b-like gene,1B
