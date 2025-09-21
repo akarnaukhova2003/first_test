@@ -28,7 +28,7 @@ ORF1A nonstructural polyprotein,1A
 ORF1AB,1AB
 ORF1AB nonstructural polyprotein,1AB
 ORF1B,1B
-ORF1_1,1AB
+ORF1_1,1A
 ORF1_2,1AB
 ORF1a,1A
 ORF1a ORF1b,1AB
@@ -86,7 +86,6 @@ non structural protein,1B
 non-structural ORF1a polyprotein,1A
 non-structural ORF1ab polyprotein,1AB
 non-structural ORF1b polyprotein,1B
-non-structural polyprotein,1AB
 non-structural polyprotein 1A,1A
 non-structural polyprotein 1AB,1AB
 non-structural polyprotein 1a,1A
@@ -97,13 +96,11 @@ non-structural protein,1AB
 non-structural protein 1a,1A
 non-structural protein 1ab,1AB
 non-structural protein 1b,1B
-non-structural-protein,1B
 non-structure polyprotein,1B
 non-structure protein,1B
 nonstructrial protein 1a,1A
 nonstructural ORF1a polyprotein,1A
 nonstructural ORF1ab polyprotein,1AB
-nonstructural polyprotein,1AB
 nonstructural polyprotein 1AB,1AB
 nonstructural polyprotein 1a,1A
 nonstructural polyprotein 1ab,1AB
@@ -122,7 +119,6 @@ nonstructural protein nsp1a,1A
 nonstructural protein nsp1ab,1AB
 nonstructural protein nspla,1AB
 nonstructural protein nsplab,1AB
-nonstructural protein,1B
 putative RNA-dependant RNA polymerase,1B
 putative serine protase,1A
 nsp1a,1A
