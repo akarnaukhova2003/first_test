@@ -74,6 +74,8 @@ def orf_coord(input_file, orf_map, remove_exceptions):
                         continue
                     def simple_coords(loc):
                         return [int(loc.start) + cod_start, int(loc.end)]
+                    def simple_coords_second(loc):
+                        return [int(loc.start), int(loc.end)]
                     success = False
                     if ann in orf_types_final:
                         dict_coord[rec.name][ann] = simple_coords(feature.location)
@@ -83,7 +85,7 @@ def orf_coord(input_file, orf_map, remove_exceptions):
                             continue
                         if len(feature.location.parts) > 1:
                             dict_coord[rec.name]['1A'] = simple_coords(feature.location.parts[0])
-                            dict_coord[rec.name]['1B'] = simple_coords(feature.location.parts[1])
+                            dict_coord[rec.name]['1B'] = simple_coords_second(feature.location.parts[1])
                         elif len(feature.location.parts) == 1:
                             coords = simple_coords(feature.location.parts[0])
                             dict_coord[rec.name]['1B'] = coords
