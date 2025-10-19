@@ -2,29 +2,16 @@
 1a,1A
 1ab,1AB
 1b,1B
-2,
-3,
 3C-like serine protease motif,1A
 3C-like serine proteinase,1A
 5' translation start site undetermined; contains RNA-dependent RNA polymerase motif,1B
-ANVgp1,
-ANVgp1; OR1a and OR1b linked by ribosomal frameshift,
-ANVgp1; ORF1a linked to ORF1b by ribosomal frameshift,
-ANVgp2,
-An enzyme that catalyzes the replication of RNA from an RNA template,
 CAstV ORF1b,1B
 CP,2
 Capsid,2
 Capsid precursor protein,2
-Env,
-GP1,
 HAstV1,
 HAstV1; ORF1b/ORF2; ORF1b,1B
 HAstV1; ORF2,2
-HAstV2,
-HAstV3,
-HAstV8,
-Ha,
 MLB2; ORF1b/ORF2; ORF1b,1B
 MLB2; ORF2,2
 NS,1A
@@ -73,7 +60,6 @@ ORF1a and ORF1b; non-structural polyprotein and RdRp,1B
 ORF1a polyprotein,1A
 ORF1a protein,1A
 ORF1a putative serine protease,1A
-ORF1a/ORF1ab,
 ORF1a; coding region disrupted by sequencing gap,1A
 ORF1a; contains 3C-like serine protease motif,1A
 ORF1a; non-structural protein,1A
@@ -108,12 +94,6 @@ ORF2, capsid precursor protein,2
 ORF2, structural protein,2
 ORF2; capsid_N; capsid_p2,2
 ORF2; structural protein,2
-ORF3,
-ORF3 protein,
-ORF3A,
-ORF3B,
-ORF4,
-ORFX,
 ORf1a,1A
 Orf 1a,1A
 Orf 1b,1B
@@ -185,8 +165,6 @@ contains putative serine proteinase and RNA-dependant RNA polymerase,1AB
 contains putative serine proteinase and RNA-dependant RNA polymerase domains,1AB
 contains serine protease and RNA-dependent RNA polymerase; ORF1ab,1AB
 Cp,2
-gp1,
-gp2,
 gp2; RdRp,1B
 includes replicase (ORF1ab) and capsid protein,1AB
 major capsid protein precursor,2
@@ -219,8 +197,6 @@ non-structural protein; ORF1a,1A
 non-structural protein; ORF1ab; contains RNA-dependent RNA-polymerase,1B
 non-structural protein; ORF1b,1B
 non-structural protein; Orf1a,1A
-non-structural protein; results from translational frameshift between ORF1a and ORF1b,
-non-structural; results from a translational frameshift between ORF1a and ORF1b,
 non-structure polyprotein,1B
 non-structure protein,1B
 nonstructrial protein 1a,1A
@@ -301,9 +277,6 @@ putative RNA-dependent polymerase,1B
 putative RdRp,1B
 putative capsid protein,2
 putative non-structural protein; ORF1b,1B
-putative peptidase,
-putative protein,
-putative replicase,
 putative serine protase,1A
 putative serine protease,1A
 putative serine protease; ORF1A,1A
